@@ -2,11 +2,12 @@ package Array;
 import java.util.*;
 
 
-public class MultiDimesionalArray {
+public class MultiDimesional_2DArray {
     public static void main(String[] args) {
         Scanner sc =  new Scanner(System.in);
 
         int [][] arr = new int[3][3];
+
 
         // direct intialization
 //        int [][] arr1 = {

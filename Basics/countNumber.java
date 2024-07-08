@@ -1,4 +1,4 @@
-package First;
+package Basics;
 
 public class countNumber {
 

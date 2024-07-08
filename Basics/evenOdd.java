@@ -1,4 +1,4 @@
-package First;
+package Basics;
 import java.util.*;
 
 public class evenOdd {
